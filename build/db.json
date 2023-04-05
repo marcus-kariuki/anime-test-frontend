@@ -1,0 +1,47 @@
+{
+    "anime": [
+      {
+        "title": "Attack on Titan",
+        "genre": ["Action", "Drama", "Fantasy"],
+        "image": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
+        "link": "https://myanimelist.net/anime/31374/Shingeki_Kyojin_Chuugakkou",
+        "synopsis": "On his first day of junior high, Eren Yeager comes face-to-face with a titan—and has his lunch stolen! From that day on, he holds a grudge against titans for taking his favorite food from him, a cheeseburger, vowing to eliminate their kind once and for all. Along with his adoptive sister Mikasa Ackerman and their friend Armin Arlert, the trio traverse the halls of Titan Junior High, encountering familiar faces and participating in various extracurricular activities as part of the Wall Cleanup Club. A parody of the immensely popular parent series, Shingeki! Kyojin Chuugakkou places beloved characters as junior high school students, fighting to protect their lunches from gluttonous titans. "
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "genre": ["Action", "Adventure", "Drama"],
+        "image": "https://cdn.myanimelist.net/images/anime/2/29550.jpg",
+        "link": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+        "synopsis":"Chasing a runaway alchemist with strange powers, brothers Edward and Alphonse Elric stumble into the squalid valley of the Milos. The Milosians are an oppressed group that seek to reclaim their holy land from Creta: a militaristic country that forcefully annexed their nation. In the eye of the political storm is a girl named Julia Crichton, who emphatically wishes for the Milos to regain their strength and return to being a nation of peace. Befriending the girl, Edward and Alphonse find themselves in the midst of a rising resistance that involves the use of the very object they have been seeking all along—the Philosopher's Stone. However, their past experiences with the stone cause them reservation, and the brothers are unwilling to help. But as they discover the secrets behind Creta's intentions and questionable history, the brothers are drawn into the battle between the rebellious Milos, who desire their liberty, and the Cretan military, who seek absolute power."
+      },
+      {
+        "title": "Death Note",
+        "genre": ["Mystery", "Thriller", "Supernatural"],
+        "image": "https://cdn.myanimelist.net/images/anime/4/88911.jpg",
+        "link": "https://example.com/death-note.mp4",
+        "synopsis": "When Light Yagami finds a mysterious notebook that allows him to kill anyone whose name he writes in it, he decides to use it to rid the world of criminals and become its god. However, he soon finds himself pursued by a mysterious detective known only as L."
+      },
+      {
+        "title": "Cyberpunk: Edgerunners",
+        "genre": ["Action", "Adventure"],
+        "image": "https://cdn.myanimelist.net/images/anime/1994/134985.jpg",
+        "link": "https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners",
+        "synopsis":"Cyberpunk: Edgerunners tells a standalone story about a street kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an edgerunner—a mercenary outlaw also known as a cyberpunk. (Source: Official Site) Episode 1 was previewed at a screening at Anime Expo on July 2, 2022. The official release was in September 2022."
+      },
+      {
+        "title": "Haikyuu!!",
+        "genre": ["Comedy", "Sports"],
+        "image": "https://cdn.myanimelist.net/images/anime/7/81992.jpg",
+        "link": "https://myanimelist.net/anime/32935/Haikyuu_Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou",
+        "synopsis":"After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces. Only the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!."
+      },
+      {
+        "title": "Haikyuu!!",
+        "genre": ["Comedy", "Sports"],
+        "image": "https://cdn.myanimelist.net/images/anime/7/81992.jpg",
+        "link": "https://myanimelist.net/anime/32935/Haikyuu_Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou",
+        "synopsis":"After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces. Only the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!."
+      }
+    ]
+  }
+  
